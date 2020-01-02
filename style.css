@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+}
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#green {
+    color: green;
+}
+
+#big {
+    font-size: 30px;
+}
+
+#tiny {
+    font-size: 10px;
+}
+
+#center {
+    text-align: center;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+#font {
+    font-family: fantasy;
+}
+
+#bob {
+    font-weight: bold;
+    color: orange;
+    font-size: 50px;
+}
+
+.styledFont {
+    font-size: large;
+    font-family: sans-serif;
+    color: green;
+}
+
+#styledImage {
+    border-color: orange;
+    border-style: solid;
+    border-width: 10px;
+}
